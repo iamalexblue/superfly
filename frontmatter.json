@@ -1,0 +1,18 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "blog",
+      "path": "[[workspace]]/src/content/blog"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/src/content/blog"
+    }
+  ],
+  "frontMatter.content.publicFolder": {
+    "path": "src/assets",
+    "relative": true
+  },
+  "frontMatter.git.enabled": true
+}
